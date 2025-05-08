@@ -1,4 +1,4 @@
-# Traffic Sign Classification for Autonomous Driving
+# Traffic Sign Classification
 
 This MATLAB project compares the effectiveness of different machine learning approaches (SVM + HOG, SVM + SIFT, and CNN) for classifying traffic signs using the German Traffic Sign Recognition Benchmark (GTSRB) dataset.
 
