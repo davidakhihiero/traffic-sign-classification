@@ -1,0 +1,29 @@
+# GTSRB Dataset Download Instructions
+
+This project uses the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset from Kaggle.
+
+## 📥 Download Steps
+
+1. Go to the Kaggle dataset page:
+   https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+2. Click the **Download** button (you may need to log in).
+
+3. After downloading, extract the contents of the zip file.
+
+4. Move **all extracted files and folders** into the `Data/` directory of this project.
+
+   Example structure:
+   ```
+   traffic-sign-classification/
+   ├── Data/
+   │   ├── Meta/
+   │   ├── Test/
+   │   ├── Train/
+   │   ├── Meta.csv
+   │   ├── Test.csv
+   │   ├── Train.csv
+   ```
+
+
+
