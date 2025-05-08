@@ -6,6 +6,7 @@ This MATLAB project compares the effectiveness of different machine learning app
 
 - `scripts/`: Contains all MATLAB scripts for training and testing models.
 - `models/`: Saved `.mat` files of trained models (CNN, SVM-HOG, SVM-SIFT).
+- `Data/`: Contains dataset.
 - `DATASET_INSTRUCTIONS.txt`: Contains dataset download instructions.
 - `report/`: Final project report in PDF format.
 
