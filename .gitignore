@@ -2,8 +2,6 @@
 *.asv
 *.autosave
 
-# Ignore model checkpoints
-*.mat
 
 # Ignore dataset cache or large raw data
 Data/
